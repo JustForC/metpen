@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Tugas 1"
+date:   2019-12-30 19:43:38 +0700
+categories: Tugas
+---
+Tugas video mengenai penelitian.
+
+[Tugas 1](https://drive.google.com/open?id=1ewwlsi_YOnhpbo8HWaCZKuZmunAKYhnQ)

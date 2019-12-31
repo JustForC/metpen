@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Tugas 4"
+date:   2019-12-30 19:43:38 +0700
+categories: Tugas
+---
+Tugas makalah lengkap untuk Gemastik
+
+[Tugas 4](https://drive.google.com/open?id=1mv6-etN61b4QK3HzAbPdV4VMiAM9J3zT)
